@@ -15,4 +15,4 @@
 - Jag klickade på knapparna "commit" och "push".
 
 
-![](android.png)
+![](Screenshot1.png)
